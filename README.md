@@ -28,3 +28,9 @@ Stable Diffusion is a latent text-to-image diffusion model capable of generating
 
 ---
 
+## Example Output
+
+![Screenshot 2025-05-24 at 7 14 47 PM](https://github.com/user-attachments/assets/1f20aeec-7139-4a6e-96e9-06508384e7cb)
+
+---
+
